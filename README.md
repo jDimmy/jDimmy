@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jDimmy
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning ML and NN
+- 👀 I’m interested in AI and programming
+- 🌱 I’m currently learning ML with NN
 - 💞️ I’m looking to collaborate on Data science project and research
 - 📫 How to reach me further
 
